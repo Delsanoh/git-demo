@@ -5,3 +5,5 @@ but we must go on
 
 let's continue test
 and be all right
+
+the newest line
