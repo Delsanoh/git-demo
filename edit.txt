@@ -7,3 +7,4 @@ let's continue test
 and be all right
 
 the newest line
+line once more - - - - - - 
